@@ -1,4 +1,4 @@
-## Guide Overview: Network Security and Scanning Process (Kali Linux)
+## Guide Overview: Network Security and Scanning Process in Kali Linux
 
 This guide provides a step-by-step approach to network security and scanning, focusing on anonymity, passive network monitoring, and information gathering techniques. By following the sections below, you will gain practical knowledge of how to enhance your network security and perform security assessments using common tools. The guide is structured into distinct phases, from securing your network connection to performing passive scans and brute-force attacks for testing vulnerabilities. 
 
