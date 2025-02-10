@@ -6,7 +6,7 @@ This guide provides a step-by-step approach to network security and scanning, fo
 
 Before diving into network scanning and penetration testing, the first step is ensuring your own anonymity and security. Begin by setting up a secure VPN connection and performing a DNS leak test to confirm that your traffic remains private.
 
-- **[VPN and DNS Leak Test.md](https://github.com/brgkdm/process-network-force/blob/main/Anonymity%20and%20Security.md)**  
+- **[VPN and DNS Leak Test.md](https://github.com/brgkdm/Network-Force-Processes/blob/main/Docs/VPN%20and%20DNS%20Leak%20Test.md)**  
   This section walks you through the process of setting up a VPN, verifying your IP address security, and checking for potential DNS leaks. Ensuring that your connection is secure and anonymous is a fundamental prerequisite before performing any network reconnaissance or penetration testing.  
 
 ---
@@ -15,7 +15,7 @@ Before diving into network scanning and penetration testing, the first step is e
 
 Once your connection is secured, it’s time to begin monitoring the network in a passive manner. Passive monitoring allows you to gather information without actively interacting with the network, making it an important stealthy method for reconnaissance.
 
-- **[Passive Network Monitoring.md](https://github.com/brgkdm/process-network-force/blob/main/Passive%20Network%20Monitoring.md)**  
+- **[Passive Network Monitoring.md](https://github.com/brgkdm/Network-Force-Processes/blob/main/Docs/Passive%20Network%20Monitoring.md)**  
   This section introduces passive network scanning techniques using tools like `airodump-ng` and other monitoring tools. The goal here is to gather valuable insights about the devices on the network, including their MAC addresses, IPs, and other metadata. This is a crucial part of understanding the network layout and preparing for further testing.
 
 ---
@@ -24,7 +24,7 @@ Once your connection is secured, it’s time to begin monitoring the network in 
 
 After completing the passive monitoring phase, the next step involves actively scanning the network to gather detailed information about the devices and services running on it. This phase is crucial for identifying potential vulnerabilities that may be exploited in a security test.
 
-- **[Network Scanning and Information Gathering.md](https://github.com/brgkdm/process-network-force/blob/main/Network%20Scanning%20and%20Information%20Gathering.md)**  
+- **[Network Scanning and Information Gathering.md](https://github.com/brgkdm/Network-Force-Processes/blob/main/Docs/Network%20Scanning%20and%20Information%20Gathering.md)**  
   This section covers various network scanning techniques, including using `nmap` for discovering devices on the network, identifying open ports, and performing vulnerability scans. Additionally, you will learn about brute force attacks and methods for testing the security of devices by attempting default credentials and other common access points.
 
 ---
